@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I’m Cadu</h1>
 
-##
-
 - 🌱 I’m currently learning Web Dev at Trybe ...
 - 📍 Uberlândia, MG - Brazil
 
