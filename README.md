@@ -5,9 +5,6 @@
 📍 Uberlândia, MG - Brazil </br>
 </p>
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadubr&theme=buefy&show_icons=true)
-
-
 ##
 
 <h3 align="left">Languages and Tools:</h3>
