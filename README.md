@@ -3,9 +3,9 @@
 <p align="center">💞 I'm interested in designer, technology and gaming. </br>
 🌱 I’m currently learning Web Dev at <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> ... </br>
 📍 Uberlândia, MG - Brazil </br>
-</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadubr&theme=buefy&show_icons=true)
+</p>
 
 ##
 
