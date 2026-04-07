@@ -1,6 +1,5 @@
-<h1><strong>👨‍💻 Cadu</strong></h1>
+# 👨‍💻 Cadu
 
-Sou desenvolvedor fullstack, atuando no desenvolvimento de aplicações web utilizando JavaScript e TypeScript, tanto no frontend quanto no backend.
-Tenho foco em construir sistemas completos e resolver problemas práticos do dia a dia, sempre buscando código limpo, organização e boas práticas.
-Busco evoluir constantemente em tecnologias como React, Next.js e Node.js, além de aprofundar conhecimentos em arquitetura de sistemas.
-Meu objetivo é atuar em projetos mais robustos e conquistar oportunidades remotas.
+Sou desenvolvedor fullstack, trabalho com JavaScript e TypeScript no desenvolvimento de aplicações web, atuando tanto no frontend quanto no backend.
+Gosto de construir sistemas completos e resolver problemas práticos do dia a dia, sempre buscando manter organização e clareza no código.
+Meu foco é evoluir tecnicamente e me preparar para trabalhar com projetos maiores e oportunidades remotas.
